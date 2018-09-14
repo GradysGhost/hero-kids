@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-13T17:28:31-06:00
+
+====== 1 Training Day ======
+Created Thursday 13 September 2018
+
+===== Scenes =====
+1. Introduction to Rivenshore
+	* Setting
+	* Calamity and training
+	* Rumblefury's anxiety about class choice
+		* He wants to be a warrior but worries he isn't strong enough
+2. Training Day
+	* Pyramus meets some classmates of different classes
+		* A brute
+		* A healer
+		* A warlock
+	* Teacher introduces a few possible aptitudes
+		* Warlocks - masters of magic
+		* Healers cure the injured
+		* Warriors, always brave
+	* Warrior trainer singles Pyramus out for training
+3. Warrior Things
+	* Warrior trainer teaches Pyramus some things:
+		* Proper sword grip and stance
+		* How to swing with the sword (melee attack explanation)
+		* How to attack multiple targets
+		* How to use teamwork
+	* Sparring practice
+		* Trainer gets Pyramus and another warrior together to spar against two partners
+		* Pyramus and his partner manage to use the skills just learned
+4. Animal Tracking
+	* Trainer takes Pyramus outside to show him some rabbit tracks
+	* Has Pyramus track the rabbit to its burrow
+	* Rabbit babies!
+5. Conclusion
+	* Pyramus is no longer nervous. He gets to continue training as a warrior, and he seems to be pretty good at it!
+
+
+===== The Story Itself =====
+
+Welcome to Rivenshore, a wonderful town in the Brecken Vale nestled among the Druinhowe Mountains. The Camarva River runs down out of cold mountain springs, through Rivenshore, and out to the sparkling Bay of Baylay.
+
+Rivenshore would be a beautiful place to live if it weren't beset by endless calamity. And while their clan's warriors and warlocks are off protecting the Brecken Vale from wild animals, bandits, and dragons, it's up to the kids to deal with any emergencies!
+
+And because the town needs the kids' help, the kids get to training early! Each spring, kids who've come of age report to Master Preben at the Rivenshore Academy for sorting!
