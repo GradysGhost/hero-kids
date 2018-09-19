@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-18T16:59:59-06:00
+
+====== Characters ======
+Created Tuesday 18 September 2018
+
+===== Pyramus Lam =====
+Main character
+Warrior
+
+===== Bosni Irilith =====
+Secondary protag
+Water warlock
+
+===== Ruzus Gongo =====
+Secondary antag
+Brute
+
+===== Zezialica Cremmender =====
+Secondary protag
+Healer
